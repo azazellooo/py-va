@@ -1,0 +1,16 @@
+beautifulsoup4==4.10.0
+certifi==2021.10.8
+charset-normalizer==2.0.7
+idna==3.3
+jaraco.context==4.1.1
+more-itertools==8.11.0
+PyAudio==0.2.11
+PySimpleGUI==4.55.1
+pyttsx3==2.90
+requests==2.26.0
+soupsieve==2.3
+SpeechRecognition==3.8.1
+urllib3==1.26.7
+wikipedia==1.4.0
+wolframalpha==5.0.0
+xmltodict==0.12.0
